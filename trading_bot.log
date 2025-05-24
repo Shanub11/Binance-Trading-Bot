@@ -1,0 +1,45 @@
+2025-05-24 16:39:24,968 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 16:39:27,876 - BinanceTradingBot - INFO - Placing market order: BUY 0.001 BTCUSDT
+2025-05-24 16:39:28,144 - BinanceTradingBot - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-05-24 16:44:59,240 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 16:45:00,124 - BinanceTradingBot - INFO - Placing market order: BUY 0.001 BTCUSDT
+2025-05-24 16:45:00,394 - BinanceTradingBot - ERROR - Market order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-05-24 20:55:05,507 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 20:55:06,878 - BinanceTradingBot - INFO - Placing market order: BUY 0.001 BTCUSDT
+2025-05-24 20:55:07,074 - BinanceTradingBot - ERROR - Market order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-05-24 21:00:47,114 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 21:00:47,972 - BinanceTradingBot - INFO - Placing market order: BUY 0.001 BTCUSDT
+2025-05-24 21:00:48,152 - BinanceTradingBot - ERROR - Market order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-05-24 21:04:41,245 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 21:04:42,306 - BinanceTradingBot - INFO - Placing limit order: BUY 0.001 BTCUSDT @ 108989.0
+2025-05-24 21:04:42,737 - BinanceTradingBot - ERROR - Limit order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-05-24 22:23:50,725 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 22:23:51,548 - BinanceTradingBot - INFO - Placing market order: BUY 0.001 BTCUSDT
+2025-05-24 22:23:51,726 - BinanceTradingBot - ERROR - Market order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-05-24 22:30:55,852 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 22:30:56,819 - BinanceTradingBot - INFO - Placing market order: BUY 0.001 BTCUSDT
+2025-05-24 22:30:57,309 - BinanceTradingBot - ERROR - Market order failed: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2025-05-24 22:35:38,068 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 22:35:39,410 - BinanceTradingBot - INFO - Placing market order: BUY 0.001 BTCUSDT
+2025-05-24 22:35:39,856 - BinanceTradingBot - INFO - Market order executed: {'orderId': 4457348492, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJf9e82e925c880022edd64e', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1748106339767}
+2025-05-24 23:12:21,780 - BinanceTradingBot - ERROR - Failed to initialize client: Session.request() got an unexpected keyword argument 'recvWindow'
+2025-05-24 23:20:08,183 - BinanceTradingBot - ERROR - Failed to initialize client: Session.request() got an unexpected keyword argument 'recvWindow'
+2025-05-24 23:24:23,494 - BinanceTradingBot - INFO - Time synchronized. Offset: -265ms
+2025-05-24 23:24:23,494 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 23:27:26,697 - BinanceTradingBot - INFO - Time synchronized. Offset: -169ms
+2025-05-24 23:27:26,697 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 23:29:06,128 - BinanceTradingBot - INFO - Time synchronized. Offset: -317ms
+2025-05-24 23:29:06,128 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 23:29:07,563 - BinanceTradingBot - INFO - Time synchronized. Offset: -244ms
+2025-05-24 23:29:07,563 - BinanceTradingBot - INFO - Placing market order (attempt 1): SELL 0.001 BTCUSDT
+2025-05-24 23:29:07,868 - BinanceTradingBot - INFO - Market order executed: {'orderId': 4457454367, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ8cd121a69659ecc2ff374e', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1748109547604}
+2025-05-24 23:46:02,778 - BinanceTradingBot - INFO - Time synchronized. Offset: -189ms
+2025-05-24 23:46:02,778 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 23:46:04,316 - BinanceTradingBot - INFO - Time synchronized. Offset: -172ms
+2025-05-24 23:46:04,319 - BinanceTradingBot - INFO - Placing market order (attempt 1): SELL 0.1 BTCUSDT
+2025-05-24 23:46:04,724 - BinanceTradingBot - INFO - Market order executed: {'orderId': 4457484307, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ7562319b2ff1d3c035dff0', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.100', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'SELL', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1748110564339}
+2025-05-24 23:46:58,281 - BinanceTradingBot - INFO - Time synchronized. Offset: -192ms
+2025-05-24 23:46:58,281 - BinanceTradingBot - INFO - Successfully connected to Binance API
+2025-05-24 23:46:59,614 - BinanceTradingBot - INFO - Time synchronized. Offset: -176ms
+2025-05-24 23:46:59,614 - BinanceTradingBot - INFO - Placing market order (attempt 1): BUY 0.1 BTCUSDT
+2025-05-24 23:46:59,825 - BinanceTradingBot - INFO - Market order executed: {'orderId': 4457485766, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ8f2c9b4b90d72d65ed37bc', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.100', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1748110619650}
